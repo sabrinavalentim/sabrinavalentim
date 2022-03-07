@@ -1,6 +1,6 @@
 ## Olá!
 - 💻 Hoje trabalho com front-end
-  - 📝Estudando JavaScript
+- 📝Estudando JavaScript
 
 
   <a href="https://github.com/sabrinavalentim">
